@@ -1,0 +1,18 @@
+Téma semestrální práce:
+Hra Tower Defense
+
+Autor: 
+Tomáš Voldřich
+
+Zadání:
+Naprogramujte jendoduchou grafickou tower defense hru
+
+Váš engine:
+
+    ze souboru nahraje definici věží (cena, velikost, útok, dosah, ...)
+    ze souboru nahraje možné mapy a typy nepřátel (životy, rychlost, odolnost na určitý typ věže ,...)
+    implementuje jednoduchou interakci věž vs. útočníci (útok, proběhnutí, ...), počitadlo skore, detekci vítěztví (po nezabití x útočníků)
+    implementuje alespoň 2 strategie průchodu hracím polem
+    umožňuje ukládat a načítat rozehrané hry
+
+Engine může fungovat real-time hra, či tahová hra.
